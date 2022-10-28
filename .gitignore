@@ -1,0 +1,5 @@
+target/
+efi/
+OVMF_VARS.fd
+.cargo/
+.vscode
